@@ -2,17 +2,17 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  color: darkorchid;
+  color: rgb(204, 50, 135);
 }
 main #section-two {
-  color: green;
+  color: rgb(122, 0, 128);
 }
 
 body {
-  background-color: burlywood;
+  background-color: rgb(222, 135, 209);
 }
 body header {
-  color: crimson;
+  color: rgb(0, 0, 0);
   width: 100%;
 }
 body header h1 {
@@ -23,8 +23,8 @@ body #mixin-example {
   border-radius: 50%;
   height: 100px;
   width: 100px;
-  background-color: yellow;
-  color: orangered;
+  background-color: rgb(255, 0, 225);
+  color: rgb(255, 255, 255);
   padding: 5%;
   font-size: 1.5em;
   font-style: italic;
