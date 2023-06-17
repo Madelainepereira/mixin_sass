@@ -1,1 +1,1 @@
-# mixin SASS activity to understand SASS fundamentals
+# Taller mixin Sass
